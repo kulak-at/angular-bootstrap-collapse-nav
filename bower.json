@@ -1,0 +1,20 @@
+{
+  "name": "angular-bootstrap-collapse-nav",
+  "version": "0.1",
+  "homepage": "https://github.com/kulak-at/angular-bootstrap-collapse-nav",
+  "authors": [
+    "Kacper Kula <kacper.kula@gmail.com>"
+  ],
+  "main": "build/angular-bootstrap-collapse-nav.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.26"
+  }
+}
