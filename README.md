@@ -3,6 +3,10 @@ Angular Bootstrap Collapse-Nav
 
 Angular Bootstrap Collapse-Nav is a directive for Angular apps with Bootstrap layouts that collapses the navigation in mobile layout when user selects a link.
 
+Installation
+---
+`bower install angular-bootstrap-collapse-nav`. Your angular app should include `kulak.bootstrap.collapse-nav` dependency.
+
 Usage
 ---
 Simply just add `collapse-on-click` attribute on `.navbar` element.
